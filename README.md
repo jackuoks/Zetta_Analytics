@@ -1,32 +1,50 @@
-# TeknoKilimo - Smart Farm Management System
+
+
+# Zetta Analytics - Intelligence in every byte
 
 ## Overview
 
-TeknoKilimo is a revolutionary Smart Farm Management System designed to transform the agricultural landscape in Africa. It provides advanced data analytics and real-time monitoring to optimize farming practices, enhance productivity, and promote sustainable agriculture. Our flagship module, SUNGURA BORA, specializes in rabbit farming management, offering predictive insights to improve breeding, nutrition, and overall farm productivity.
+Zetta Analytics is an innovative technology company focused on revolutionizing the agricultural sector in Africa through advanced data analytics and smart farm management solutions. Founded with the vision to enhance agricultural productivity and sustainability, Zetta Analytics offers a suite of cutting-edge tools and platforms designed to empower farmers with actionable insights and data-driven decision-making capabilities.
 
-## Why TeknoKilimo?
+## Projects
 
-Agricultural productivity in Africa faces significant challenges due to remote farm management, farm mismanagement, unreliable markets, and inaccurate data. TeknoKilimo addresses these challenges by providing farmers with actionable data and data-driven decision-making capabilities. By leveraging cutting-edge technology, TeknoKilimo empowers farmers to enhance efficiency, reduce costs, and contribute to food security and economic growth.
+### TeknoKilimo
 
-## Key Features
+TeknoKilimo is a revolutionary Smart Farm Management System designed to transform the agricultural landscape in Africa. It provides advanced data analytics and real-time monitoring to optimize farming practices, enhance productivity, and promote sustainable agriculture. 
 
-- **Real-Time Monitoring**: Keep track of farm activities and livestock health in real time.
-- **Comprehensive Data Analytics solutions**: Advanced analytics tools and big Data solutions to help farmers optimize their operations.
-- **Predictive Analytics Insights**: Use data-driven analytics to predict and optimize breeding and nutrition.
-- **Market Intelligence**: Connect farmers with reliable markets for their produce,analyse market trends,pricing dynamic and demand-supply patterns.
-- **Integrated Smart Farm Management**: Comprehensive management of all farm assets, including livestock and crops.
+**Key Features:**
+- Real-time monitoring
+- Data analytics
+- Predictive insights
+- Market intelligence
+- Smart management of all farm assets,crops and Livestock
+
+### SUNGURA BORA
+
+SUNGURA BORA is a specialized module within the TeknoKilimo platform, focused on rabbit farming management. It offers advanced data analytics, real-time monitoring, and predictive insights to optimize breeding, nutrition, and overall farm productivity.
+
+**Key Features:**
+- Breeding optimization
+- Nutrition management
+- Productivity enhancement
+- Genomics and reproduction data
+- Market Access
+
+## Usefulness
+
+Zetta Analytics addresses critical challenges faced by farmers, such as remote farm management, farm mismanagement, unreliable markets, and inaccurate data. By providing farmers with actionable data and data-driven decision-making capabilities, Zetta Analytics empowers them to enhance efficiency, reduce costs, and contribute to food security and economic growth.
 
 ## Getting Started
 
-To get started with TeknoKilimo, follow these steps:
+To get started with Zetta Analytics:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/TeknoKilimo.git
+    git clone https://github.com/jackuoks/Zetta-Analytics.git
     ```
 2. **Navigate to the repository directory**:
     ```bash
-    cd TeknoKilimo
+    cd Zetta-Analytics
     ```
 3. **Install the necessary dependencies**:
     ```bash
@@ -46,15 +64,15 @@ To get started with TeknoKilimo, follow these steps:
 
 ## Getting Help
 
-If you need help with TeknoKilimo, you can:
+If you need help with Zetta Analytics, you can:
 
-- Check out the [documentation](https://github.com/jackuoks/TeknoKilimo/wiki) on our Wiki.
-- Post your questions in the [Issues section](https://github.com/jackuoks/TeknoKilimo/issues) of the GitHub repository.
-- Contact our support team at support@zetta-analytics.tech.
+- Check out the [documentation](https://github.com/jackuoks/Zetta-Analytics/wiki) on our Wiki.
+- Post your questions in the [Issues section](https://github.com/jackuoks/Zetta-Analytics/issues) of the GitHub repository.
+- Contact our support team at support@zettaanalytics.com.
 
 ## Contribution
 
-TeknoKilimo is maintained by Zetta Analytics and a team of dedicated contributors. We welcome contributions from the community. If you would like to contribute:
+Zetta Analytics is maintained by a team of dedicated contributors. We welcome contributions from the community. If you would like to contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix:
@@ -71,10 +89,11 @@ TeknoKilimo is maintained by Zetta Analytics and a team of dedicated contributor
 ## Maintainers
 
 - Jack Kuoku (Senior Data Engineer) - [GitHub Profile](https://github.com/jackuoks)
-- [Zetta Analytics Team](https://www.zetta-analytics.tech/team)
+- [Zetta Analytics Team](https://www.zetta-analytics.com/team)
 
-We are committed to making TeknoKilimo a robust and user-friendly platform to revolutionize agriculture in Africa. Thank you for your support!
+We are committed to making Zetta Analytics a robust and user-friendly platform to revolutionize agriculture in Africa. Thank you for your support!
 
 ---
 
 *This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.*
+
