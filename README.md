@@ -6,7 +6,7 @@ TeknoKilimo is a revolutionary Smart Farm Management System designed to transfor
 ### Key Features
 - **SUNGURA BORA**: A specialized module for rabbit farming management, offering advanced data analytics, real-time monitoring, and predictive insights to optimize breeding, nutrition, and overall farm productivity.
 - **Comprehensive Farm Management**: Tools and platforms for managing all livestock, crops, and farm assets.
-- **Data-Driven Decision Making**: Historical data and analytics to support high-yield farming practices.
+- **Data-Driven Decision Making**: Decision Driven-data and analytics to support high-yield farming practices.
 - **Market Connectivity**: Access to reliable market data and connections to buyers.
 
 ### Why This Project is Useful
