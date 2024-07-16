@@ -11,10 +11,10 @@ Agricultural productivity in Africa faces significant challenges due to remote f
 ## Key Features
 
 - **Real-Time Monitoring**: Keep track of farm activities and livestock health in real time.
-- **Data Analytics**: Advanced analytics tools to help farmers make informed decisions.
-- **Predictive Insights**: Use historical data to predict and optimize breeding and nutrition.
-- **Market Access**: Connect farmers with reliable markets for their produce.
-- **Smart Management**: Comprehensive management of all farm assets, including livestock and crops.
+- **Comprehensive Data Analytics solutions**: Advanced analytics tools and big Data solutions to help farmers optimize their operations.
+- **Predictive Analytics Insights**: Use data-driven analytics to predict and optimize breeding and nutrition.
+- **Market Intelligence**: Connect farmers with reliable markets for their produce,analyse market trends,pricing dynamic and demand-supply patterns.
+- **Integrated Smart Farm Management**: Comprehensive management of all farm assets, including livestock and crops.
 
 ## Getting Started
 
