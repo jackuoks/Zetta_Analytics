@@ -8,7 +8,7 @@ Zetta Analytics is an innovative technology company focused on revolutionizing t
 
 ## Projects
 
-### TeknoKilimo
+### TeknoKilimo System
 
 TeknoKilimo is a revolutionary Smart Farm Management System designed to transform the agricultural landscape in Africa. It provides advanced data analytics and real-time monitoring to optimize farming practices, enhance productivity, and promote sustainable agriculture. 
 
@@ -21,7 +21,7 @@ TeknoKilimo is a revolutionary Smart Farm Management System designed to transfor
 
 ### SUNGURA BORA
 
-SUNGURA BORA is a specialized module within the TeknoKilimo platform, focused on rabbit farming management. It offers advanced data analytics, real-time monitoring, and predictive insights to optimize breeding, nutrition, and overall farm productivity.
+SUNGURA BORA is a specialized module within the TeknoKilimo platform, focused on rabbit farming management. It is also offered in form of an App accessible to rabbit farmers to capture rabbit data and all the farming practices and methods revolving around Rabbitry.It offers advanced data analytics, real-time monitoring, and predictive insights to optimize breeding, nutrition, and overall farm productivity.
 
 **Key Features:**
 - Breeding optimization
