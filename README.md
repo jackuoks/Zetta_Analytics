@@ -48,9 +48,9 @@ To get started with TeknoKilimo, follow these steps:
 
 If you need help with TeknoKilimo, you can:
 
-- Check out the [documentation](https://github.com/your-username/TeknoKilimo/wiki) on our Wiki.
-- Post your questions in the [Issues section](https://github.com/your-username/TeknoKilimo/issues) of the GitHub repository.
-- Contact our support team at support@zettaanalytics.com.
+- Check out the [documentation](https://github.com/jackuoks/TeknoKilimo/wiki) on our Wiki.
+- Post your questions in the [Issues section](https://github.com/jackuoks/TeknoKilimo/issues) of the GitHub repository.
+- Contact our support team at support@zetta-analytics.tech.
 
 ## Contribution
 
@@ -70,8 +70,8 @@ TeknoKilimo is maintained by Zetta Analytics and a team of dedicated contributor
 
 ## Maintainers
 
-- Jack Kuoku (Senior Data Engineer) - [GitHub Profile](https://github.com/your-username)
-- [Zetta Analytics Team](https://www.zettaanalytics.com/team)
+- Jack Kuoku (Senior Data Engineer) - [GitHub Profile](https://github.com/jackuoks)
+- [Zetta Analytics Team](https://www.zetta-analytics.tech/team)
 
 We are committed to making TeknoKilimo a robust and user-friendly platform to revolutionize agriculture in Africa. Thank you for your support!
 
