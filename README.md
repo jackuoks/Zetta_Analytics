@@ -66,9 +66,9 @@ To get started with Zetta Analytics:
 
 If you need help with Zetta Analytics, you can:
 
-- Check out the [documentation](https://github.com/jackuoks/Zetta-Analytics/wiki) on our Wiki.
-- Post your questions in the [Issues section](https://github.com/jackuoks/Zetta-Analytics/issues) of the GitHub repository.
-- Contact our support team at support@zettaanalytics.com.
+- Check out the [documentation](https://github.com/jackuoks/zetta-analytics/wiki) on our Wiki.
+- Post your questions in the [Issues section](https://github.com/jackuoks/zetta-analytics/issues) of the GitHub repository.
+- Contact our support team at support@zetta-analytics.tech.
 
 ## Contribution
 
@@ -89,7 +89,7 @@ Zetta Analytics is maintained by a team of dedicated contributors. We welcome co
 ## Maintainers
 
 - Jack Kuoku (Senior Data Engineer) - [GitHub Profile](https://github.com/jackuoks)
-- [Zetta Analytics Team](https://www.zetta-analytics.com/team)
+- [Zetta Analytics Team](https://www.zetta-analytics.tech/team)
 
 We are committed to making Zetta Analytics a robust and user-friendly platform to revolutionize agriculture in Africa. Thank you for your support!
 
